@@ -6,11 +6,11 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Video de App en funcionamiento 📹
 
-<img src="https://i.imgur.com/2aeZLFQ.gif" width="288" height="640" />
+<img src="https://i.imgur.com/S8tWy8K.gif" width="288" height="640" />
 
 ### APK compilado
 
-_Descargar el aplicativo para probar en el movil **[Link de descarga](https://1drv.ms/u/s!AoCMd_tc7sl2gpEj8RIZw9st8qIzOQ?e=gVxr49)**_
+_Descargar el aplicativo para probar en el movil **[Link de descarga](https://1drv.ms/u/s!AoCMd_tc7sl2gpQS--mE5tjrmEwJPg?e=oQ9ioO)**_
 
 ## Construido 🛠️
 
