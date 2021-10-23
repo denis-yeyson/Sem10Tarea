@@ -4,10 +4,10 @@ _En esta aplicación se desarrolla el uso de la Base de Datos SQL localmente con
 
 Modelo de la Bd creada.
 
-<img src="https://i.imgur.com/xjwFaBz.png" width="288" height="640" />
+<img src="https://i.imgur.com/xjwFaBz.png" width="288" height="400" />
 ### Video de App en funcionamiento 📹
 
-<img src="https://i.imgur.com/S8tWy8K.gif" width="288" height="640" />
+<img src="https://i.imgur.com/S8tWy8K.gif" width="288" height="400" />
 
 ### APK compilado
 
