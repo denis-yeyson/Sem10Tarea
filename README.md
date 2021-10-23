@@ -1,9 +1,10 @@
 # Sem10: SQLite
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_En esta aplicación se desarrolla el uso de la Base de Datos SQL localmente con la creacion de un formulario para registrar inquilinos._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Modelo de la Bd creada.
 
+<img src="https://i.imgur.com/xjwFaBz.png" width="288" height="640" />
 ### Video de App en funcionamiento 📹
 
 <img src="https://i.imgur.com/S8tWy8K.gif" width="288" height="640" />
